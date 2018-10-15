@@ -1,0 +1,19 @@
+body {
+    background: #333;
+    color: white;
+}
+
+#clock {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 90px;
+    font-family: Baskerville, Georgia;
+}
+
+#title {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 500%;
+    font-weight: bold;
+    font-family: Baskerville, Georgia;
+}
