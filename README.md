@@ -3,7 +3,7 @@
 Construa um site, que exiba a hora atual de Brasília e a hora atual de Londres.
 
 Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lista de linguagens que nós aqui da CA temos mais afinidade:
-- JavaScript (NodeJS)
+- JavaScript
 - Python
 - Go
 - Ruby
