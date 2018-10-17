@@ -30,7 +30,7 @@ Você pode usar qualquer _framework_. Se a sua escolha for por um _framework_ qu
 - **Assertividade**: A aplicação está fazendo o que é esperado? Se tem algo faltando, o README explica o porquê?
 - **Legibilidade do código** (incluindo comentários)
 - **Histórico de commits** (estrutura e qualidade)
-- **UX**: A interface é de fácil uso e auto-explicativa? A API é intuitiva?
+- **UX**: A interface é de fácil uso e auto-explicativa?
 
 ## Dúvidas
 
