@@ -1,6 +1,6 @@
 # <img src="https://avatars1.githubusercontent.com/u/42723118?s=200&v=4" alt="CA" width="24" /> Desafio Alpha
 
-Construa um site, que exiba a hora atual de brasília.
+Construa um site, que exiba a hora atual de Brasília e a hora atual de Londres.
 
 Você pode usar qualquer linguagem de programação para o desafio. Abaixo a lista de linguagens que nós aqui da CA temos mais afinidade:
 - JavaScript (NodeJS)
