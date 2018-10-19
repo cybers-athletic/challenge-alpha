@@ -12,6 +12,3 @@ _use os seguintes comandos:_
 - cd challenge-alpha
 - firefox index.html
 (Pode ser usado qualquer outro navegador de usa preferencia)
-
-*© 2018 Cybers Atlética*
-
